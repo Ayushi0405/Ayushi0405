@@ -19,9 +19,10 @@ Showcasing innovative projects and solutions.
 
 <p align = "center">
  
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@aayushi.gupta0405)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Ayushhyyy) 
 [<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ayushi-gupta-a96323227/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Ayushhyyy) 
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@aayushi.gupta0405)
+[<img src="https://img.shields.io/badge/quora-%23a62100.svg?&style=for-the-badge&logo=quora&logoColor=white" />](https://quora.com/profile/Ayushi-Gupta-2045)
 [![Visits Badge](https://komarev.com/ghpvc/?username=Ayushi0405&style=for-the-badge)](https://github.com/Ayushi0405/Ayushi0405)
 
 </p>
