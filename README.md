@@ -3,10 +3,13 @@
 A versatile developer proficient in `Full Stack Web Development`, `Machine Learning`, & `Deep Learning`
 
 - 🏆 Won 2x Hackathon: [Certificates](https://github.com/Ayushi0405/Certificates)
-  - Intel GenAI Hackathon
-  - HackedCode by GGSIPU
+  - `Intel` GenAI Hackathon
+  - `HackedCode` by GGSIPU
 - 🏅 `Secretary` at `ACM Women Tech Society GGSIPU`
-- 👨🏽‍💻 Final Year `B.Tech (Artificial Intelligence & Machine Learning)` Student at `GGSIPU` 
+- 👨🏽‍💻 Final Year `B.Tech (Artificial Intelligence & Machine Learning)` Student at `GGSIPU`
+- 👨🏽‍💻 Internship Experience:
+  - `Machine Learning` Intern at `Prodigal AI`
+  - `Full Stack Development` Intern at `QuantumCona LLP`
 - 💻 Linkedin Profile: [Linkedin](https://www.linkedin.com/in/ayushi1111/)
 - 📫 How to reach me: **aayushi.gupta0405@gmail.com**
 - 📜 My Certificates & Resume: [Certificates](https://github.com/Ayushi0405/Certificates)
